@@ -3,4 +3,4 @@ project(MyChallenge)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MyChallenge main.cpp)
+add_executable(MyChallenge main.cpp day2/romanToInt.cpp day2/longestCommonPrefix.cpp)

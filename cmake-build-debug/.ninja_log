@@ -1,5 +1,4 @@
 # ninja log v5
-2	1066	6782972241595511	CMakeFiles/MyChallenge.dir/main.cpp.obj	90dff89fcdb789f3
-1071	1338	6782972244237248	MyChallenge.exe	6e9e957a9fb75fd
-4	1330	6782977950804500	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
-1331	1627	6782977953773121	MyChallenge.exe	6e9e957a9fb75fd
+5	1017	6783032684691537	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
+1018	1426	6783032688753878	MyChallenge.exe	5e1489acbb985272

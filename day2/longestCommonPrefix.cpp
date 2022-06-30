@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 6/30/2022.
+//leetcode
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -38,11 +41,3 @@ string longestCommonPrefix(vector<string>& strs) {
     return res;
 }
 
-int main() {
-
-    vector<string> strs = {"dog","racecar","car"};
-    cout<<longestCommonPrefix(strs);
-
-
-    return 0;
-}
