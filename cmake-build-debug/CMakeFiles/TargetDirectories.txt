@@ -1,0 +1,3 @@
+C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug/CMakeFiles/MyChallenge.dir
+C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
