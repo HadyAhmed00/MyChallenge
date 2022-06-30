@@ -1,4 +1,4 @@
-"C:\Users\Hady Ahmed\AppData\Local\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Hady Ahmed/AppData/Local/JetBrains/CLion 2022.1.2/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\Hady Ahmed\Desktop\Draft\sol\MyChallenge" -B "C:\Users\Hady Ahmed\Desktop\Draft\sol\MyChallenge\cmake-build-debug"
+"C:\Users\Hady Ahmed\AppData\Local\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Hady Ahmed/AppData/Local/JetBrains/CLion 2022.1.2/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\Hady Ahmed\Documents\GitHub\MyChallenge" -B "C:\Users\Hady Ahmed\Documents\GitHub\MyChallenge\cmake-build-debug"
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug
+-- Build files have been written to: C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug"
+			"value" : "c:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge"
+			"value" : "C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge/cmake-build-debug"
+			"value" : "C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"
 		},
 		{
 			"name" : "MyChallenge_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Hady Ahmed/Desktop/Draft/sol/MyChallenge"
+			"value" : "C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge"
 		}
 	],
 	"kind" : "cache",
