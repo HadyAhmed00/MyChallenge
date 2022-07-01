@@ -67,6 +67,18 @@ build CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
   OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day2
 
+build CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/BusToUdayland.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\BusToUdayland.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+
+build CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/Far.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\Far.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MyChallenge
@@ -75,7 +87,7 @@ build CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable MyChallenge.exe
 
-build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj
+build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\MyChallenge.dir

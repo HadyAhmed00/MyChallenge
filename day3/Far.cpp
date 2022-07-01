@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/1/2022.
+//
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -43,9 +46,4 @@ void Far(){
 
     cout<<c <<endl;
 
-}
-
-int main() {
-    Far();
-    return 0;
 }

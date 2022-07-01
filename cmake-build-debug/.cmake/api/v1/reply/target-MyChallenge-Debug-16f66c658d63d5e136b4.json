@@ -57,7 +57,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -96,7 +98,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -118,6 +122,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day2/longestCommonPrefix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day3/BusToUdayland.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day3/Far.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
