@@ -1,8 +1,12 @@
 # ninja log v5
-5	1080	6783893575741738	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+4	1033	6784594015669377	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-1081	1327	6783893578085420	MyChallenge.exe	3895a74c58fe785a
+1034	1309	6784594018325546	MyChallenge.exe	5db056077e271c23
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
 37	1521	6783638248098972	CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj	da3abcd065d0274
 37	1040	6783885500325678	CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj	bafa1cbc49b3f70d
+78	1754	6784476294638943	CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj	4ca75daedd052a9a
+38	1095	6784493722889068	CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj	a73f4ed86d6320bc
+29	1752	6784552254403140	CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj	689cf93271eba20
+28	1213	6784571407778610	CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj	710ec2f0e37ff471
