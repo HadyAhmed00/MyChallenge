@@ -115,6 +115,12 @@ build CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj: CXX_COMPILER__My
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
   OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day4
 
+build CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day5/Mashmokh_and_Tokens.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day5\Mashmokh_and_Tokens.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day5
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MyChallenge
@@ -123,7 +129,7 @@ build CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj: CXX_COMPILER__My
 #############################################
 # Link the executable MyChallenge.exe
 
-build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj
+build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\MyChallenge.dir

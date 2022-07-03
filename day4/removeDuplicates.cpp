@@ -6,10 +6,11 @@
 #include <algorithm>
 #include <map>
 #include <set>
-#include <vector >
+#include<vector>
 #define ll long long
 #define modl 1000000007
 #define f(i, k, n) for (ll i = k; i < n; i++)
+using namespace std;
 int removeDuplicates(vector<int>& nums) {
     int a = 0;
     set<int> s ;

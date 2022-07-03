@@ -3,4 +3,4 @@ project(MyChallenge)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MyChallenge main.cpp day2/romanToInt.cpp day2/longestCommonPrefix.cpp day3/BusToUdayland.cpp day3/Far.cpp day3/mergeTwoLists.cpp day3/maximumUnits.cpp day4/Burning_Midnight.cpp day4/Circle_line.cpp day4/MaxArea.cpp day4/removeDuplicates.cpp)
+add_executable(MyChallenge main.cpp day2/romanToInt.cpp day2/longestCommonPrefix.cpp day3/BusToUdayland.cpp day3/Far.cpp day3/mergeTwoLists.cpp day3/maximumUnits.cpp day4/Burning_Midnight.cpp day4/Circle_line.cpp day4/MaxArea.cpp day4/removeDuplicates.cpp day5/Mashmokh_and_Tokens.cpp)
