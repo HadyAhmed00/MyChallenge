@@ -1,8 +1,10 @@
 # ninja log v5
-7	995	6785376564179252	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+6	1011	6786219917805580	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-996	1275	6785376566917562	MyChallenge.exe	8078483cc83f0c
+72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
+1012	1289	6786219920617994	MyChallenge.exe	8fe901b515b6c0d3
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
 37	1521	6783638248098972	CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj	da3abcd065d0274
 37	1040	6783885500325678	CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj	bafa1cbc49b3f70d
@@ -12,5 +14,7 @@
 28	1213	6784571407778610	CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj	710ec2f0e37ff471
 7	1039	6785290778409542	CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj	e1c234ed5f24de4b
 43	1489	6785309270857527	CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj	5237471f95b56a8d
+99	2524	6786166210006024	CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj	dcb84b3dc5000ad7
 51	1373	6785334190343283	CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj	14c83acf74f580ea
 30	1060	6785372066173541	CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj	9e906a4bf92cc76
+79	1995	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj	ed2b56f936c4813d

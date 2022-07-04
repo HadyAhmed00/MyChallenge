@@ -69,7 +69,11 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16,
+				17,
+				18
 			]
 		}
 	],
@@ -120,7 +124,11 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16,
+				17,
+				18
 			]
 		}
 	],
@@ -214,6 +222,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day5/removeElement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day6/Wizards.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day6/Combination_Lock.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day6/Candy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day6/isValid.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
