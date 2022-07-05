@@ -76,7 +76,8 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22
 			]
 		}
 	],
@@ -134,7 +135,8 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22
 			]
 		}
 	],
@@ -270,6 +272,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day7/longestConsecutive.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day7/binaryAddithin.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

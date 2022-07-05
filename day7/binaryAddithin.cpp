@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/5/2022.
+//
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -51,10 +54,10 @@ string addBinary(string a, string b) {
     return res;
 
 }
-
-int main(){
-//    string a=,  b=;
-    string res =  addBinary("1010","1011");
-//    cout<<res;
-    return 0;
-}
+//
+//int main(){
+////    string a=,  b=;
+//    string res =  addBinary("1010","1011");
+////    cout<<res;
+//    return 0;
+//}
