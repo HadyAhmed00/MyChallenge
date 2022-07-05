@@ -73,7 +73,10 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -128,7 +131,10 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -246,6 +252,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day6/isValid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day7/Mashmokh_and_Lights.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day7/Triangular_numbers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day7/longestConsecutive.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

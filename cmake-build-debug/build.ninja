@@ -163,6 +163,24 @@ build CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj: CXX_COMPILER__MyChallenge
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
   OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day6
 
+build CMakeFiles/MyChallenge.dir/day7/Mashmokh_and_Lights.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/Mashmokh_and_Lights.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\Mashmokh_and_Lights.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+
+build CMakeFiles/MyChallenge.dir/day7/Triangular_numbers.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/Triangular_numbers.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\Triangular_numbers.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+
+build CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/longestConsecutive.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\longestConsecutive.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MyChallenge
@@ -171,7 +189,7 @@ build CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj: CXX_COMPILER__MyChallenge
 #############################################
 # Link the executable MyChallenge.exe
 
-build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj
+build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj CMakeFiles/MyChallenge.dir/day7/Mashmokh_and_Lights.cpp.obj CMakeFiles/MyChallenge.dir/day7/Triangular_numbers.cpp.obj CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\MyChallenge.dir

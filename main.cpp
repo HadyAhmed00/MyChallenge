@@ -10,7 +10,7 @@
 #define f(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
 
-
 int main() {
-
+  
+    return 0;
 }
