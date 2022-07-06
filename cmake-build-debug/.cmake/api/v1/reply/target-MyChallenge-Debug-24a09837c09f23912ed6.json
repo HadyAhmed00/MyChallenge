@@ -77,7 +77,11 @@
 				19,
 				20,
 				21,
-				22
+				22,
+				23,
+				24,
+				25,
+				26
 			]
 		}
 	],
@@ -136,7 +140,11 @@
 				19,
 				20,
 				21,
-				22
+				22,
+				23,
+				24,
+				25,
+				26
 			]
 		}
 	],
@@ -278,6 +286,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day7/binaryAddithin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day8/Summer_Camp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day8/Soft_Drinking.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day8/fib.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day8/climbStairs.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
