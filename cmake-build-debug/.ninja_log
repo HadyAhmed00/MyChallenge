@@ -1,10 +1,10 @@
 # ninja log v5
-6	1135	6787979756470198	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+6	910	6788788208902773	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-1136	1545	6787979760532577	MyChallenge.exe	8421231e1172555e
+910	1258	6788788212340130	MyChallenge.exe	f6037a1fa7246e98
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -18,11 +18,15 @@
 7	1039	6785290778409542	CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj	e1c234ed5f24de4b
 43	1489	6785309270857527	CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj	5237471f95b56a8d
 99	2524	6786166210006024	CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj	dcb84b3dc5000ad7
+90	1902	6788682885211598	CMakeFiles/MyChallenge.dir/day8/climbStairs.cpp.obj	1495487d5647a669
 51	1373	6785334190343283	CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj	14c83acf74f580ea
 30	1060	6785372066173541	CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj	9e906a4bf92cc76
 79	1995	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj	ed2b56f936c4813d
 32	1320	6786906699227287	CMakeFiles/MyChallenge.dir/day7/Mashmokh_and_Lights.cpp.obj	a564d9fea321c41a
 31	2201	6786911101303832	CMakeFiles/MyChallenge.dir/day7/Triangular_numbers.cpp.obj	1d6934bc851fac16
 95	2049	6786978907384813	CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj	856952c05e555eae
+8	1234	6788786647662310	CMakeFiles/MyChallenge.dir/day9/isInterleave.cpp.obj	b55fafacdf8d3d0d
 79	1315	6787900452409268	CMakeFiles/MyChallenge.dir/day7/binaryAddithin.cpp.obj	6cf88c0b1ccdcb59
 72	2113	6787919747786033	CMakeFiles/MyChallenge.dir/day8/Summer_Camp.cpp.obj	cea0c3ff2490b357
+40	1071	6788708164053738	CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj	e744a2d5f3540030
+39	1493	6788734595665521	CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj	fce5e5e49f4d3ec9
