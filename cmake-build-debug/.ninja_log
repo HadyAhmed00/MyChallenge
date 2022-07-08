@@ -1,10 +1,10 @@
 # ninja log v5
-6	910	6788788208902773	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+10	1148	6789145521447200	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-910	1258	6788788212340130	MyChallenge.exe	f6037a1fa7246e98
+1149	1543	6789145525350195	MyChallenge.exe	753cdcf706b14500
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -30,3 +30,4 @@
 72	2113	6787919747786033	CMakeFiles/MyChallenge.dir/day8/Summer_Camp.cpp.obj	cea0c3ff2490b357
 40	1071	6788708164053738	CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj	e744a2d5f3540030
 39	1493	6788734595665521	CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj	fce5e5e49f4d3ec9
+71	1486	6789123169709284	CMakeFiles/MyChallenge.dir/day9/countBits.cpp.obj	462c4c71d41716c8

@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/8/2022.
+//
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -78,9 +81,8 @@ vector<int> isPower(vector<int> arr) {
     return res;
 
 }
-
 int weightCapacity(vector<int> weights, int maxCapacity) {
-    greedy
+//    greedy
     int total = 0;
     sort(weights.begin(),weights.end(),greater<int>());
     for (int i = 0; i < weights.size() && maxCapacity>0; ++i) {
@@ -96,21 +98,10 @@ int weightCapacity(vector<int> weights, int maxCapacity) {
 }
 
 
-//int weightCapacity(vector<int> weights, int maxCapacity) {
-//    //dp;
+
+//
+//int main(){
+//
+//    return 0;
 //}
-int weightCapacity_helper()
-int main(){
-    vector<int> a = { 8,
-            16,
-            24,
-            56,
-            48,
-            0,
-            1,
-            100,
-            99 };
-//    vector<int> b = { 0, 1, 2, 3 };
-    mergeArrays(a, b);
-    return 0;
-}
+

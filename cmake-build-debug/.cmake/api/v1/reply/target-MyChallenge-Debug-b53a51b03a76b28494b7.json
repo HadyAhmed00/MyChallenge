@@ -85,7 +85,8 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31
 			]
 		}
 	],
@@ -152,7 +153,8 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31
 			]
 		}
 	],
@@ -342,6 +344,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day9/countBits.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day9/assassment5Problems.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
