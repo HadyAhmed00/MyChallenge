@@ -86,7 +86,11 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32,
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -154,7 +158,11 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32,
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -350,6 +358,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day9/assassment5Problems.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day10/Cupboards.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day10/Patrick_and_Shopping.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day10/mySqrt.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day10/MyPower.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

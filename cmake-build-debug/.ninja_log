@@ -1,10 +1,10 @@
 # ninja log v5
-10	1148	6789145521447200	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+7	852	6789672441458028	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-1149	1543	6789145525350195	MyChallenge.exe	753cdcf706b14500
+852	1228	6789672445234792	MyChallenge.exe	97ab41bcc2157912
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -27,7 +27,11 @@
 95	2049	6786978907384813	CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj	856952c05e555eae
 8	1234	6788786647662310	CMakeFiles/MyChallenge.dir/day9/isInterleave.cpp.obj	b55fafacdf8d3d0d
 79	1315	6787900452409268	CMakeFiles/MyChallenge.dir/day7/binaryAddithin.cpp.obj	6cf88c0b1ccdcb59
+35	1184	6789625847678972	CMakeFiles/MyChallenge.dir/day10/Cupboards.cpp.obj	7715c53b492865e3
 72	2113	6787919747786033	CMakeFiles/MyChallenge.dir/day8/Summer_Camp.cpp.obj	cea0c3ff2490b357
 40	1071	6788708164053738	CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj	e744a2d5f3540030
 39	1493	6788734595665521	CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj	fce5e5e49f4d3ec9
 71	1486	6789123169709284	CMakeFiles/MyChallenge.dir/day9/countBits.cpp.obj	462c4c71d41716c8
+62	1481	6789614064785744	CMakeFiles/MyChallenge.dir/day9/assassment5Problems.cpp.obj	35f44566cd10652c
+33	1336	6789648339226983	CMakeFiles/MyChallenge.dir/day10/Patrick_and_Shopping.cpp.obj	576d3ea8d82f97e3
+33	1283	6789668230157415	CMakeFiles/MyChallenge.dir/day10/mySqrt.cpp.obj	5d3ebfa5191b1c5d
