@@ -31,8 +31,8 @@ double myPow(double x, int n) {
     }
     return final;
 }
-int main(){
-
-    cout<<myPow(2.00000,-2);
-    return 0;
-}
+//int main(){
+//
+//    cout<<myPow(2.00000,-2);
+//    return 0;
+//}
