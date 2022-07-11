@@ -94,7 +94,9 @@
 				36,
 				37,
 				38,
-				39
+				39,
+				40,
+				41
 			]
 		}
 	],
@@ -170,7 +172,9 @@
 				36,
 				37,
 				38,
-				39
+				39,
+				40,
+				41
 			]
 		}
 	],
@@ -414,6 +418,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "day12/minCostClimbingStairs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day13/Duff_and_Meat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "day13/rightSideView.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

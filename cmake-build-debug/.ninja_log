@@ -1,13 +1,13 @@
 # ninja log v5
-9	949	6791432079805402	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+8	1000	6792105919847774	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
 33	1350	6783014656682992	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 7	1106	6791388409812817	CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj	213e21dbcf7f9aa0
 101	2026	6783868382959903	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-950	1304	6791432083242763	MyChallenge.exe	742ccc4b76aa8233
-49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
+1001	1370	6792105923393683	MyChallenge.exe	581ec9f75808c0ce
+49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 29	1275	6783601716442005	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
 37	1521	6783638248098972	CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj	da3abcd065d0274
 37	1040	6783885500325678	CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj	bafa1cbc49b3f70d
@@ -34,6 +34,7 @@
 40	1071	6788708164053738	CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj	e744a2d5f3540030
 25	1632	6791415574440099	CMakeFiles/MyChallenge.dir/day12/lights_out.cpp.obj	4d2b8e2b2bf2a8c8
 39	1493	6788734595665521	CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj	fce5e5e49f4d3ec9
+26	2702	6792084647786870	CMakeFiles/MyChallenge.dir/day12/minCostClimbingStairs.cpp.obj	a08ba26746655a4c
 71	1486	6789123169709284	CMakeFiles/MyChallenge.dir/day9/countBits.cpp.obj	462c4c71d41716c8
 62	1481	6789614064785744	CMakeFiles/MyChallenge.dir/day9/assassment5Problems.cpp.obj	35f44566cd10652c
 33	1336	6789648339226983	CMakeFiles/MyChallenge.dir/day10/Patrick_and_Shopping.cpp.obj	576d3ea8d82f97e3
