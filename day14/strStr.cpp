@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/12/2022.
+//
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -35,10 +38,10 @@ int strStr(string haystack, string needle) {
     }
     return -1;
 }
-int main(){
-
-    improve
-    string haystack = "hello", needle = "ll";
-    cout<<strStr(haystack,needle);
-    return 0;
-}
+//int main(){
+//
+//    improve
+//    string haystack = "hello", needle = "ll";
+//    cout<<strStr(haystack,needle);
+//    return 0;
+//}
