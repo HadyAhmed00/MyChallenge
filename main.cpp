@@ -14,31 +14,10 @@
 #define modl 1000000007
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
-int strStr(string haystack, string needle) {
-    if(needle.size()>haystack.size())
-        return -1;
-    for (int i = 0; i < haystack.size(); ++i) {
-        if(needle[0]==haystack[i])
-        {
-            bool f = true;
-            for (int j = 0; j < needle.size(); ++j) {
-                if(i+j>=haystack.size())
-                    return -1;
-                if(needle[j]!=haystack[i+j]){
-                    f=false;
 
-                }
-            }
-            if(f)
-                return i;
-        }
-    }
-    return -1;
-}
 int main(){
 
     improve
-    string haystack = "hello", needle = "ll";
-    cout<<strStr(haystack,needle);
+
     return 0;
 }
