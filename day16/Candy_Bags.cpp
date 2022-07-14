@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/14/2022.
+//
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -16,10 +19,23 @@
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
 
-int main(){
-
-    improve
-
-    END
-    return 0;
+void Candy_Bags(){
+    int n;cin>>n;
+    int a=1 ,b=n*n;
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n / 2; ++j) {
+            cout<<a<<" "<<b<<" ";
+            a++;
+            b--;
+        }
+        END
+    }
 }
+//
+//int main(){
+//
+//    improve
+//    Candy_Bags();
+//    END
+//    return 0;
+//}
