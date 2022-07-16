@@ -27,30 +27,10 @@
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
 
-int lengthOfLastWord(string s) {
-
-    int c =0;
-    int a = s.size()-1;
-    while (s[a]==' ')
-    {
-        s.erase(a);
-        a--;
-    }
-    for (int i = s.size()-1; i >=0; --i) {
-
-        if(s[i]!=' ')
-            c++;
-        else
-            break;
-
-    }
-    return c;
-}
 int main(){
 
     improve
-    lengthOfLastWord(
-            "luffy is still joyboy");
+
     END
     return 0;
 }
