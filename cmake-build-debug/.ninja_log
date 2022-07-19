@@ -1,5 +1,5 @@
 # ninja log v5
-10	1599	6798887465145374	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+17	1119	6799187066266604	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 20	1771	6793818798714528	CMakeFiles/MyChallenge.dir/day14/strStr.cpp.obj	88bd900126997c05
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 13	2163	6795658747061640	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
@@ -7,7 +7,7 @@
 28	3330	6792955795197448	CMakeFiles/MyChallenge.dir/day13/Duff_and_Meat.cpp.obj	d7a5d158839edf78
 7	1106	6791388409812817	CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj	213e21dbcf7f9aa0
 1843	2963	6795660405432657	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-1600	2259	6798887471551397	MyChallenge.exe	9ca27a18e762efd4
+1120	1681	6799187071735127	MyChallenge.exe	4f901bb979c35b51
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 26	1842	6795660394049249	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -65,5 +65,6 @@
 45	3863	6797426642585711	CMakeFiles/MyChallenge.dir/day18/lengthOfLastWord.cpp.obj	1b7a8dd152fb85f4
 47	1871	6798860974561745	CMakeFiles/MyChallenge.dir/day19/deleteDuplicatesLinkedList.cpp.obj	b0ed5b998e606e30
 34	1901	6798860974874241	CMakeFiles/MyChallenge.dir/day19/+ONE.cpp.obj	11db49ba7de2d86b
-26	1440	6798872944870913	CMakeFiles/MyChallenge.dir/day20/HQ9.cpp.obj	dd6b766d8db46bf5
-27	1084	6798885551810366	CMakeFiles/MyChallenge.dir/day20/Holidays.cpp.obj	24c4ecdead101be4
+35	1776	6799185199084131	CMakeFiles/MyChallenge.dir/day20/HQ9.cpp.obj	dd6b766d8db46bf5
+1776	2723	6799185208927529	CMakeFiles/MyChallenge.dir/day20/Holidays.cpp.obj	24c4ecdead101be4
+29	1891	6799185200021591	CMakeFiles/MyChallenge.dir/day20/merge.cpp.obj	398fd5f763bfa80a
