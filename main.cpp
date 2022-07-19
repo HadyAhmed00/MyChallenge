@@ -28,7 +28,7 @@ using namespace std;
 int main(){
 
     improve
-    generate(5);
+
     END
     return 0;
 }
