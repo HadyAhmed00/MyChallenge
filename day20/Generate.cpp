@@ -59,10 +59,10 @@ vector<vector<int>> generate(int numRows) {
 
 
 }
-int main(){
-
-    improve
-    generate(5);
-    END
-    return 0;
-}
+//int main(){
+//
+//    improve
+//    generate(5);
+//    END
+//    return 0;
+//}
