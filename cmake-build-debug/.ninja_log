@@ -1,5 +1,5 @@
 # ninja log v5
-19	11281	6799983290422266	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+32	977	6800685212138765	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 20	1771	6793818798714528	CMakeFiles/MyChallenge.dir/day14/strStr.cpp.obj	88bd900126997c05
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 13	2163	6795658747061640	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
@@ -7,7 +7,7 @@
 28	3330	6792955795197448	CMakeFiles/MyChallenge.dir/day13/Duff_and_Meat.cpp.obj	d7a5d158839edf78
 7	1106	6791388409812817	CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj	213e21dbcf7f9aa0
 1843	2963	6795660405432657	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
-12780	13614	6799941771550403	MyChallenge.exe	7a1a875207b375b5
+978	1618	6800685218544782	MyChallenge.exe	cef82b36c3bde270
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 26	1842	6795660394049249	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -49,6 +49,7 @@
 12	960	6791388157114893	CMakeFiles/MyChallenge.dir/day11/jumpGame.cpp.obj	a64c3e759ac739be
 1772	3485	6795666812118365	CMakeFiles/MyChallenge.dir/day17/Socks.cpp.obj	bdc71f91063ec0
 22	3355	6792955795838826	CMakeFiles/MyChallenge.dir/day13/rightSideView.cpp.obj	73a47749c5fc14d4
+28	1835	6799985020721030	CMakeFiles/MyChallenge.dir/day21/isSupsequince.cpp.obj	3861d5cd2f6a7a52
 35	2644	6795595551145139	CMakeFiles/MyChallenge.dir/day16/buildTree.cpp.obj	d25bbcecc3cc45d1
 2313	3253	6797668559317341	CMakeFiles/MyChallenge.dir/day19/pairs.cpp.obj	84cba85700b9903d
 27	2373	6792967583721872	CMakeFiles/MyChallenge.dir/day14/Vanya_and_Cards.cpp.obj	a202dd35ab453eec
@@ -69,5 +70,9 @@
 1776	2723	6799185208927529	CMakeFiles/MyChallenge.dir/day20/Holidays.cpp.obj	24c4ecdead101be4
 29	1891	6799185200021591	CMakeFiles/MyChallenge.dir/day20/merge.cpp.obj	398fd5f763bfa80a
 14	1453	6799863788656783	CMakeFiles/MyChallenge.dir/day20/Generate.cpp.obj	23a9cb73f262c580
-33	2145	6799905682790099	CMakeFiles/MyChallenge.dir/day21/Haiku.cpp.obj	14cf39a1c58537cc
-30	1538	6799938971797271	CMakeFiles/MyChallenge.dir/day21/Dividing_Orange.cpp.obj	ad54321ed9505881
+1836	3064	6799985033220636	CMakeFiles/MyChallenge.dir/day21/Haiku.cpp.obj	14cf39a1c58537cc
+44	2556	6799985027908298	CMakeFiles/MyChallenge.dir/day21/Dividing_Orange.cpp.obj	ad54321ed9505881
+1906	3110	6799985033689331	CMakeFiles/MyChallenge.dir/day21/numMatchingSubseq.cpp.obj	a9254fa5712cc948
+55	3233	6800752884768926	CMakeFiles/MyChallenge.dir/day22/System_of_Equations.cpp.obj	6180e022a53b3f2c
+44	3246	6800752884888852	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+3246	4353	6800752896031964	MyChallenge.exe	61d51c30c7bae86
