@@ -24,35 +24,43 @@
 #define END cout<<endl;
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
-void IQ(){
-    int a[1001];
-    int n,i,num1=0,num2=0,cnt2=0,cnt1=0;
-    cin>>n;
-    for(i=0;i<n;i++)
-    {
-        cin>>a[i];
-        if(a[i]%2==0)
-        {
-            cnt1++;
-            num1=i;
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
+ListNode* partition(ListNode* head, int x) {
+
+    ListNode* small = new ListNode(-1);
+    ListNode* large = new ListNode(-1);
+    ListNode* small_head = small;
+    ListNode* large_head = large;
+
+    while (head){
+        if (head->val < x){
+            small->next = head;
+            small = small -> next;
+            head = head -> next;
+            small->next = NULL;
         }
-        else
-        {
-            cnt2++;
-            num2=i;
+        else{
+            large->next = head;
+            large = large -> next;
+            head = head -> next;
+            large -> next = NULL;
         }
     }
+    small -> next = large_head -> next;
 
-    if(cnt1==1)
-        cout<<num1+1<<endl;
-    if(cnt2==1)
-        cout<<num2+1<<endl;
+    return small_head -> next;
 }
 
 int main(){
 
     improve
-    IQ();
+
     END
     return 0;
 }
