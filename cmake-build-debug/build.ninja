@@ -55,515 +55,527 @@ build CMakeFiles/MyChallenge.dir/main.cpp.obj: CXX_COMPILER__MyChallenge_Debug C
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
   OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir
 
-build CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day2/romanToInt.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day2\romanToInt.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day2/romanToInt.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day2/romanToInt.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day2\romanToInt.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day2
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day2
 
-build CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day2/longestCommonPrefix.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day2\longestCommonPrefix.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day2/longestCommonPrefix.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day2/longestCommonPrefix.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day2\longestCommonPrefix.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day2
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day2
 
-build CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/BusToUdayland.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\BusToUdayland.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day3/BusToUdayland.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day3/BusToUdayland.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day3\BusToUdayland.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day3
 
-build CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/Far.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\Far.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day3/Far.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day3/Far.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day3\Far.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day3
 
-build CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/mergeTwoLists.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\mergeTwoLists.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day3/mergeTwoLists.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day3/mergeTwoLists.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day3\mergeTwoLists.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day3
 
-build CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day3/maximumUnits.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day3\maximumUnits.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day3/maximumUnits.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day3/maximumUnits.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day3\maximumUnits.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day3
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day3
 
-build CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day4/Burning_Midnight.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day4\Burning_Midnight.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day4/Burning_Midnight.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day4/Burning_Midnight.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day4\Burning_Midnight.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day4
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day4
 
-build CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day4/Circle_line.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day4\Circle_line.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day4/Circle_line.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day4/Circle_line.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day4\Circle_line.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day4
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day4
 
-build CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day4/MaxArea.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day4\MaxArea.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day4/MaxArea.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day4/MaxArea.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day4\MaxArea.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day4
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day4
 
-build CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day4/removeDuplicates.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day4\removeDuplicates.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day4/removeDuplicates.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day4/removeDuplicates.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day4\removeDuplicates.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day4
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day4
 
-build CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day5/Mashmokh_and_Tokens.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day5\Mashmokh_and_Tokens.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day5/Mashmokh_and_Tokens.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day5/Mashmokh_and_Tokens.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day5\Mashmokh_and_Tokens.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day5
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day5
 
-build CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day5/Choosing_Teams.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day5\Choosing_Teams.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day5/Choosing_Teams.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day5/Choosing_Teams.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day5\Choosing_Teams.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day5
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day5
 
-build CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day5/WiggleMaxLength.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day5\WiggleMaxLength.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day5/WiggleMaxLength.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day5/WiggleMaxLength.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day5\WiggleMaxLength.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day5
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day5
 
-build CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day5/removeElement.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day5\removeElement.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day5/removeElement.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day5/removeElement.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day5\removeElement.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day5
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day5
 
-build CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day6/Wizards.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day6\Wizards.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day6/Wizards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day6/Wizards.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day6\Wizards.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day6
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day6
 
-build CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day6/Combination_Lock.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day6\Combination_Lock.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day6/Combination_Lock.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day6/Combination_Lock.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day6\Combination_Lock.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day6
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day6
 
-build CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day6/Candy.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day6\Candy.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day6/Candy.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day6/Candy.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day6\Candy.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day6
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day6
 
-build CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day6/isValid.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day6\isValid.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day6/isValid.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day6/isValid.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day6\isValid.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day6
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day6
 
-build CMakeFiles/MyChallenge.dir/day7/Mashmokh_and_Lights.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/Mashmokh_and_Lights.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\Mashmokh_and_Lights.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day7/Mashmokh_and_Lights.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day7/Mashmokh_and_Lights.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day7\Mashmokh_and_Lights.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day7
 
-build CMakeFiles/MyChallenge.dir/day7/Triangular_numbers.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/Triangular_numbers.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\Triangular_numbers.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day7/Triangular_numbers.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day7/Triangular_numbers.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day7\Triangular_numbers.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day7
 
-build CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/longestConsecutive.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\longestConsecutive.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day7/longestConsecutive.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day7/longestConsecutive.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day7\longestConsecutive.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day7
 
-build CMakeFiles/MyChallenge.dir/day7/binaryAddithin.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day7/binaryAddithin.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day7\binaryAddithin.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day7/binaryAddithin.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day7/binaryAddithin.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day7\binaryAddithin.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day7
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day7
 
-build CMakeFiles/MyChallenge.dir/day8/Summer_Camp.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day8/Summer_Camp.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day8\Summer_Camp.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day8/Summer_Camp.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day8/Summer_Camp.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day8\Summer_Camp.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day8
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day8
 
-build CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day8/Soft_Drinking.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day8\Soft_Drinking.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day8/Soft_Drinking.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day8/Soft_Drinking.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day8\Soft_Drinking.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day8
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day8
 
-build CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day8/fib.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day8\fib.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day8/fib.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day8/fib.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day8\fib.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day8
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day8
 
-build CMakeFiles/MyChallenge.dir/day8/climbStairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day8/climbStairs.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day8\climbStairs.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day8/climbStairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day8/climbStairs.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day8\climbStairs.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day8
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day8
 
-build CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day9/Coder.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day9\Coder.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day9/Coder.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day9/Coder.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day9\Coder.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day9
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day9
 
-build CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day9/GukiZ_and_Contest.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day9\GukiZ_and_Contest.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day9/GukiZ_and_Contest.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day9/GukiZ_and_Contest.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day9\GukiZ_and_Contest.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day9
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day9
 
-build CMakeFiles/MyChallenge.dir/day9/isInterleave.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day9/isInterleave.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day9\isInterleave.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day9/isInterleave.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day9/isInterleave.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day9\isInterleave.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day9
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day9
 
-build CMakeFiles/MyChallenge.dir/day9/countBits.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day9/countBits.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day9\countBits.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day9/countBits.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day9/countBits.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day9\countBits.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day9
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day9
 
-build CMakeFiles/MyChallenge.dir/day9/assassment5Problems.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day9/assassment5Problems.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day9\assassment5Problems.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day9/assassment5Problems.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day9/assassment5Problems.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day9\assassment5Problems.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day9
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day9
 
-build CMakeFiles/MyChallenge.dir/day10/Cupboards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day10/Cupboards.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day10\Cupboards.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day10/Cupboards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day10/Cupboards.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day10\Cupboards.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day10
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day10
 
-build CMakeFiles/MyChallenge.dir/day10/Patrick_and_Shopping.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day10/Patrick_and_Shopping.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day10\Patrick_and_Shopping.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day10/Patrick_and_Shopping.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day10/Patrick_and_Shopping.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day10\Patrick_and_Shopping.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day10
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day10
 
-build CMakeFiles/MyChallenge.dir/day10/mySqrt.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day10/mySqrt.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day10\mySqrt.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day10/mySqrt.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day10/mySqrt.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day10\mySqrt.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day10
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day10
 
-build CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day10/MyPower.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day10\MyPower.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day10/MyPower.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day10/MyPower.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day10\MyPower.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day10
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day10
 
-build CMakeFiles/MyChallenge.dir/day11/Soroban.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day11/Soroban.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day11\Soroban.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day11/Soroban.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day11/Soroban.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day11\Soroban.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day11
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day11
 
-build CMakeFiles/MyChallenge.dir/day11/jumpGame.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day11/jumpGame.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day11\jumpGame.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day11/jumpGame.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day11/jumpGame.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day11\jumpGame.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day11
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day11
 
-build CMakeFiles/MyChallenge.dir/day12/lights_out.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day12/lights_out.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day12\lights_out.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day12/lights_out.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day12/lights_out.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day12\lights_out.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day12
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day12
 
-build CMakeFiles/MyChallenge.dir/day12/minCostClimbingStairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day12/minCostClimbingStairs.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day12\minCostClimbingStairs.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day12/minCostClimbingStairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day12/minCostClimbingStairs.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day12\minCostClimbingStairs.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day12
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day12
 
-build CMakeFiles/MyChallenge.dir/day13/Duff_and_Meat.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day13/Duff_and_Meat.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day13\Duff_and_Meat.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day13/Duff_and_Meat.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day13/Duff_and_Meat.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day13\Duff_and_Meat.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day13
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day13
 
-build CMakeFiles/MyChallenge.dir/day13/rightSideView.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day13/rightSideView.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day13\rightSideView.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day13/rightSideView.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day13/rightSideView.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day13\rightSideView.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day13
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day13
 
-build CMakeFiles/MyChallenge.dir/day14/Vanya_and_Cards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day14/Vanya_and_Cards.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day14\Vanya_and_Cards.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day14/Vanya_and_Cards.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day14/Vanya_and_Cards.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day14\Vanya_and_Cards.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day14
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day14
 
-build CMakeFiles/MyChallenge.dir/day14/Squats.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day14/Squats.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day14\Squats.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day14/Squats.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day14/Squats.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day14\Squats.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day14
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day14
 
-build CMakeFiles/MyChallenge.dir/day14/_matchsticks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day14/$ matchsticks.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day14\_matchsticks.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day14/_matchsticks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day14/$ matchsticks.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day14\_matchsticks.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day14
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day14
 
-build CMakeFiles/MyChallenge.dir/day14/strStr.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day14/strStr.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day14\strStr.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day14/strStr.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day14/strStr.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day14\strStr.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day14
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day14
 
-build CMakeFiles/MyChallenge.dir/day15/Arrival_of_the_General.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day15/Arrival_of_the_General.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day15\Arrival_of_the_General.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day15/Arrival_of_the_General.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day15/Arrival_of_the_General.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day15\Arrival_of_the_General.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day15
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day15
 
-build CMakeFiles/MyChallenge.dir/day15/Sinking_Ship.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day15/Sinking_Ship.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day15\Sinking_Ship.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day15/Sinking_Ship.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day15/Sinking_Ship.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day15\Sinking_Ship.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day15
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day15
 
-build CMakeFiles/MyChallenge.dir/day15/levelOrder.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day15/levelOrder.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day15\levelOrder.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day15/levelOrder.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day15/levelOrder.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day15\levelOrder.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day15
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day15
 
-build CMakeFiles/MyChallenge.dir/day15/BS.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day15/BS.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day15\BS.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day15/BS.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day15/BS.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day15\BS.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day15
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day15
 
-build CMakeFiles/MyChallenge.dir/day16/llp.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day16/llp.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day16\llp.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day16/llp.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day16/llp.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day16\llp.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day16
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day16
 
-build CMakeFiles/MyChallenge.dir/day16/Candy_Bags.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day16/Candy_Bags.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day16\Candy_Bags.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day16/Candy_Bags.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day16/Candy_Bags.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day16\Candy_Bags.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day16
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day16
 
-build CMakeFiles/MyChallenge.dir/day16/buildTree.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day16/buildTree.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day16\buildTree.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day16/buildTree.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day16/buildTree.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day16\buildTree.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day16
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day16
 
-build CMakeFiles/MyChallenge.dir/day17/Game_With_Sticks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day17/Game_With_Sticks.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day17\Game_With_Sticks.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day17/Game_With_Sticks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day17/Game_With_Sticks.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day17\Game_With_Sticks.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day17
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day17
 
-build CMakeFiles/MyChallenge.dir/day17/Socks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day17/Socks.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day17\Socks.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day17/Socks.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day17/Socks.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day17\Socks.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day17
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day17
 
-build CMakeFiles/MyChallenge.dir/day17/maxAreaOfIsland.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day17/maxAreaOfIsland.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day17\maxAreaOfIsland.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day17/maxAreaOfIsland.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day17/maxAreaOfIsland.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day17\maxAreaOfIsland.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day17
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day17
 
-build CMakeFiles/MyChallenge.dir/day18/Dima_and_Friends.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day18/Dima_and_Friends.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day18\Dima_and_Friends.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day18/Dima_and_Friends.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day18/Dima_and_Friends.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day18\Dima_and_Friends.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day18
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day18
 
-build CMakeFiles/MyChallenge.dir/day18/Nicholas_and_Permutation.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day18/Nicholas_and_Permutation.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day18\Nicholas_and_Permutation.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day18/Nicholas_and_Permutation.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day18/Nicholas_and_Permutation.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day18\Nicholas_and_Permutation.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day18
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day18
 
-build CMakeFiles/MyChallenge.dir/day18/find_the_path.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day18/find_the_path.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day18\find_the_path.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day18/find_the_path.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day18/find_the_path.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day18\find_the_path.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day18
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day18
 
-build CMakeFiles/MyChallenge.dir/day18/lengthOfLastWord.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day18/lengthOfLastWord.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day18\lengthOfLastWord.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day18/lengthOfLastWord.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day18/lengthOfLastWord.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day18\lengthOfLastWord.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day18
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day18
 
-build CMakeFiles/MyChallenge.dir/day19/Hashing.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day19/Hashing.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day19\Hashing.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day19/Hashing.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day19/Hashing.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day19\Hashing.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day19
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day19
 
-build CMakeFiles/MyChallenge.dir/day19/pairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day19/pairs.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day19\pairs.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day19/pairs.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day19/pairs.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day19\pairs.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day19
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day19
 
-build CMakeFiles/MyChallenge.dir/day19/cars.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day19/cars.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day19\cars.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day19/cars.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day19/cars.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day19\cars.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day19
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day19
 
-build CMakeFiles/MyChallenge.dir/day19/+ONE.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day19/+ONE.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day19\+ONE.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day19/+ONE.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day19/+ONE.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day19\+ONE.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day19
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day19
 
-build CMakeFiles/MyChallenge.dir/day19/deleteDuplicatesLinkedList.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day19/deleteDuplicatesLinkedList.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day19\deleteDuplicatesLinkedList.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day19/deleteDuplicatesLinkedList.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day19/deleteDuplicatesLinkedList.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day19\deleteDuplicatesLinkedList.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day19
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day19
 
-build CMakeFiles/MyChallenge.dir/day20/HQ9.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day20/HQ9.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day20\HQ9.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day20/HQ9.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day20/HQ9.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day20\HQ9.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day20
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day20
 
-build CMakeFiles/MyChallenge.dir/day20/Holidays.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day20/Holidays.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day20\Holidays.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day20/Holidays.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day20/Holidays.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day20\Holidays.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day20
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day20
 
-build CMakeFiles/MyChallenge.dir/day20/merge.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day20/merge.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day20\merge.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day20/merge.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day20/merge.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day20\merge.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day20
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day20
 
-build CMakeFiles/MyChallenge.dir/day20/Generate.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day20/Generate.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day20\Generate.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day20/Generate.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day20/Generate.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day20\Generate.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day20
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day20
 
-build CMakeFiles/MyChallenge.dir/day21/Haiku.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day21/Haiku.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day21\Haiku.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day21/Haiku.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day21/Haiku.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day21\Haiku.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day21
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day21
 
-build CMakeFiles/MyChallenge.dir/day21/Dividing_Orange.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day21/Dividing_Orange.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day21\Dividing_Orange.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day21/Dividing_Orange.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day21/Dividing_Orange.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day21\Dividing_Orange.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day21
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day21
 
-build CMakeFiles/MyChallenge.dir/day21/isSupsequince.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day21/isSupsequince.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day21\isSupsequince.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day21/isSupsequince.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day21/isSupsequince.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day21\isSupsequince.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day21
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day21
 
-build CMakeFiles/MyChallenge.dir/day21/numMatchingSubseq.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day21/numMatchingSubseq.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day21\numMatchingSubseq.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day21/numMatchingSubseq.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day21/numMatchingSubseq.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day21\numMatchingSubseq.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day21
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day21
 
-build CMakeFiles/MyChallenge.dir/day22/System_of_Equations.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day22/System$ of$ Equations.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day22\System_of_Equations.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day22/System_of_Equations.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day22/System$ of$ Equations.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day22\System_of_Equations.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day22
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day22
 
-build CMakeFiles/MyChallenge.dir/day22/IQ.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day22/IQ.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day22\IQ.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day22/IQ.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day22/IQ.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day22\IQ.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day22
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day22
 
-build CMakeFiles/MyChallenge.dir/day23/ContestCodeforcesProblem.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day23/ContestCodeforcesProblem.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day23\ContestCodeforcesProblem.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day23/ContestCodeforcesProblem.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day23/ContestCodeforcesProblem.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day23\ContestCodeforcesProblem.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day23
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day23
 
-build CMakeFiles/MyChallenge.dir/day23/Restoring_Password.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day23/Restoring_Password.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day23\Restoring_Password.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day23/Restoring_Password.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day23/Restoring_Password.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day23\Restoring_Password.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day23
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day23
 
-build CMakeFiles/MyChallenge.dir/day23/Valera_and_Plates.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day23/Valera_and_Plates.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day23\Valera_and_Plates.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day23/Valera_and_Plates.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day23/Valera_and_Plates.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day23\Valera_and_Plates.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day23
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day23
 
-build CMakeFiles/MyChallenge.dir/day23/Partition.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day23/Partition.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day23\Partition.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day23/Partition.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day23/Partition.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day23\Partition.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day23
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day23
 
-build CMakeFiles/MyChallenge.dir/day24/Minimum_Difficulty.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day24/Minimum_Difficulty.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day24\Minimum_Difficulty.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day24/Minimum_Difficulty.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day24/Minimum_Difficulty.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day24\Minimum_Difficulty.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day24
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day24
 
-build CMakeFiles/MyChallenge.dir/day24/countSmaller.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day24/countSmaller.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day24\countSmaller.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day24/countSmaller.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day24/countSmaller.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day24\countSmaller.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day24
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day24
 
-build CMakeFiles/MyChallenge.dir/day24/addTwoNumbers.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day24/addTwoNumbers.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day24\addTwoNumbers.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day24/addTwoNumbers.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day24/addTwoNumbers.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day24\addTwoNumbers.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day24
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day24
 
-build CMakeFiles/MyChallenge.dir/day25/Little_Elephant_and_Function.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day25/Little_Elephant_and_Function.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day25\Little_Elephant_and_Function.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day25/Little_Elephant_and_Function.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day25/Little_Elephant_and_Function.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day25\Little_Elephant_and_Function.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day25
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day25
 
-build CMakeFiles/MyChallenge.dir/day25/searchMatrix.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day25/searchMatrix.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day25\searchMatrix.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day25/searchMatrix.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day25/searchMatrix.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day25\searchMatrix.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day25
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day25
 
-build CMakeFiles/MyChallenge.dir/day26/Collecting_Beats_is_Fun.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day26/Collecting_Beats_is_Fun.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day26\Collecting_Beats_is_Fun.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day26/Collecting_Beats_is_Fun.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day26/Collecting_Beats_is_Fun.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day26\Collecting_Beats_is_Fun.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day26
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day26
 
-build CMakeFiles/MyChallenge.dir/day26/searchRange.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/day26/searchRange.cpp || cmake_object_order_depends_target_MyChallenge
-  DEP_FILE = CMakeFiles\MyChallenge.dir\day26\searchRange.cpp.obj.d
+build CMakeFiles/MyChallenge.dir/July_2022/day26/searchRange.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day26/searchRange.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day26\searchRange.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
-  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\day26
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day26
+
+build CMakeFiles/MyChallenge.dir/July_2022/day27/Letter.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day27/Letter.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day27\Letter.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day27
+
+build CMakeFiles/MyChallenge.dir/July_2022/day27/lowestCommonAncestor.cpp.obj: CXX_COMPILER__MyChallenge_Debug C$:/Users/Hady$ Ahmed/Documents/GitHub/MyChallenge/July$ 2022/day27/lowestCommonAncestor.cpp || cmake_object_order_depends_target_MyChallenge
+  DEP_FILE = CMakeFiles\MyChallenge.dir\July_2022\day27\lowestCommonAncestor.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\MyChallenge.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyChallenge.dir\July_2022\day27
 
 
 # =============================================================================
@@ -573,7 +585,7 @@ build CMakeFiles/MyChallenge.dir/day26/searchRange.cpp.obj: CXX_COMPILER__MyChal
 #############################################
 # Link the executable MyChallenge.exe
 
-build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/day4/removeDuplicates.cpp.obj CMakeFiles/MyChallenge.dir/day5/Mashmokh_and_Tokens.cpp.obj CMakeFiles/MyChallenge.dir/day5/Choosing_Teams.cpp.obj CMakeFiles/MyChallenge.dir/day5/WiggleMaxLength.cpp.obj CMakeFiles/MyChallenge.dir/day5/removeElement.cpp.obj CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj CMakeFiles/MyChallenge.dir/day6/Candy.cpp.obj CMakeFiles/MyChallenge.dir/day6/isValid.cpp.obj CMakeFiles/MyChallenge.dir/day7/Mashmokh_and_Lights.cpp.obj CMakeFiles/MyChallenge.dir/day7/Triangular_numbers.cpp.obj CMakeFiles/MyChallenge.dir/day7/longestConsecutive.cpp.obj CMakeFiles/MyChallenge.dir/day7/binaryAddithin.cpp.obj CMakeFiles/MyChallenge.dir/day8/Summer_Camp.cpp.obj CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj CMakeFiles/MyChallenge.dir/day8/climbStairs.cpp.obj CMakeFiles/MyChallenge.dir/day9/Coder.cpp.obj CMakeFiles/MyChallenge.dir/day9/GukiZ_and_Contest.cpp.obj CMakeFiles/MyChallenge.dir/day9/isInterleave.cpp.obj CMakeFiles/MyChallenge.dir/day9/countBits.cpp.obj CMakeFiles/MyChallenge.dir/day9/assassment5Problems.cpp.obj CMakeFiles/MyChallenge.dir/day10/Cupboards.cpp.obj CMakeFiles/MyChallenge.dir/day10/Patrick_and_Shopping.cpp.obj CMakeFiles/MyChallenge.dir/day10/mySqrt.cpp.obj CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj CMakeFiles/MyChallenge.dir/day11/Soroban.cpp.obj CMakeFiles/MyChallenge.dir/day11/jumpGame.cpp.obj CMakeFiles/MyChallenge.dir/day12/lights_out.cpp.obj CMakeFiles/MyChallenge.dir/day12/minCostClimbingStairs.cpp.obj CMakeFiles/MyChallenge.dir/day13/Duff_and_Meat.cpp.obj CMakeFiles/MyChallenge.dir/day13/rightSideView.cpp.obj CMakeFiles/MyChallenge.dir/day14/Vanya_and_Cards.cpp.obj CMakeFiles/MyChallenge.dir/day14/Squats.cpp.obj CMakeFiles/MyChallenge.dir/day14/_matchsticks.cpp.obj CMakeFiles/MyChallenge.dir/day14/strStr.cpp.obj CMakeFiles/MyChallenge.dir/day15/Arrival_of_the_General.cpp.obj CMakeFiles/MyChallenge.dir/day15/Sinking_Ship.cpp.obj CMakeFiles/MyChallenge.dir/day15/levelOrder.cpp.obj CMakeFiles/MyChallenge.dir/day15/BS.cpp.obj CMakeFiles/MyChallenge.dir/day16/llp.cpp.obj CMakeFiles/MyChallenge.dir/day16/Candy_Bags.cpp.obj CMakeFiles/MyChallenge.dir/day16/buildTree.cpp.obj CMakeFiles/MyChallenge.dir/day17/Game_With_Sticks.cpp.obj CMakeFiles/MyChallenge.dir/day17/Socks.cpp.obj CMakeFiles/MyChallenge.dir/day17/maxAreaOfIsland.cpp.obj CMakeFiles/MyChallenge.dir/day18/Dima_and_Friends.cpp.obj CMakeFiles/MyChallenge.dir/day18/Nicholas_and_Permutation.cpp.obj CMakeFiles/MyChallenge.dir/day18/find_the_path.cpp.obj CMakeFiles/MyChallenge.dir/day18/lengthOfLastWord.cpp.obj CMakeFiles/MyChallenge.dir/day19/Hashing.cpp.obj CMakeFiles/MyChallenge.dir/day19/pairs.cpp.obj CMakeFiles/MyChallenge.dir/day19/cars.cpp.obj CMakeFiles/MyChallenge.dir/day19/+ONE.cpp.obj CMakeFiles/MyChallenge.dir/day19/deleteDuplicatesLinkedList.cpp.obj CMakeFiles/MyChallenge.dir/day20/HQ9.cpp.obj CMakeFiles/MyChallenge.dir/day20/Holidays.cpp.obj CMakeFiles/MyChallenge.dir/day20/merge.cpp.obj CMakeFiles/MyChallenge.dir/day20/Generate.cpp.obj CMakeFiles/MyChallenge.dir/day21/Haiku.cpp.obj CMakeFiles/MyChallenge.dir/day21/Dividing_Orange.cpp.obj CMakeFiles/MyChallenge.dir/day21/isSupsequince.cpp.obj CMakeFiles/MyChallenge.dir/day21/numMatchingSubseq.cpp.obj CMakeFiles/MyChallenge.dir/day22/System_of_Equations.cpp.obj CMakeFiles/MyChallenge.dir/day22/IQ.cpp.obj CMakeFiles/MyChallenge.dir/day23/ContestCodeforcesProblem.cpp.obj CMakeFiles/MyChallenge.dir/day23/Restoring_Password.cpp.obj CMakeFiles/MyChallenge.dir/day23/Valera_and_Plates.cpp.obj CMakeFiles/MyChallenge.dir/day23/Partition.cpp.obj CMakeFiles/MyChallenge.dir/day24/Minimum_Difficulty.cpp.obj CMakeFiles/MyChallenge.dir/day24/countSmaller.cpp.obj CMakeFiles/MyChallenge.dir/day24/addTwoNumbers.cpp.obj CMakeFiles/MyChallenge.dir/day25/Little_Elephant_and_Function.cpp.obj CMakeFiles/MyChallenge.dir/day25/searchMatrix.cpp.obj CMakeFiles/MyChallenge.dir/day26/Collecting_Beats_is_Fun.cpp.obj CMakeFiles/MyChallenge.dir/day26/searchRange.cpp.obj
+build MyChallenge.exe: CXX_EXECUTABLE_LINKER__MyChallenge_Debug CMakeFiles/MyChallenge.dir/main.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day2/romanToInt.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day2/longestCommonPrefix.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day3/BusToUdayland.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day3/Far.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day3/mergeTwoLists.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day3/maximumUnits.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day4/Burning_Midnight.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day4/Circle_line.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day4/MaxArea.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day4/removeDuplicates.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day5/Mashmokh_and_Tokens.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day5/Choosing_Teams.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day5/WiggleMaxLength.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day5/removeElement.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day6/Wizards.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day6/Combination_Lock.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day6/Candy.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day6/isValid.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day7/Mashmokh_and_Lights.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day7/Triangular_numbers.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day7/longestConsecutive.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day7/binaryAddithin.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day8/Summer_Camp.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day8/Soft_Drinking.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day8/fib.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day8/climbStairs.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day9/Coder.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day9/GukiZ_and_Contest.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day9/isInterleave.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day9/countBits.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day9/assassment5Problems.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day10/Cupboards.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day10/Patrick_and_Shopping.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day10/mySqrt.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day10/MyPower.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day11/Soroban.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day11/jumpGame.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day12/lights_out.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day12/minCostClimbingStairs.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day13/Duff_and_Meat.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day13/rightSideView.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day14/Vanya_and_Cards.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day14/Squats.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day14/_matchsticks.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day14/strStr.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day15/Arrival_of_the_General.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day15/Sinking_Ship.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day15/levelOrder.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day15/BS.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day16/llp.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day16/Candy_Bags.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day16/buildTree.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day17/Game_With_Sticks.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day17/Socks.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day17/maxAreaOfIsland.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day18/Dima_and_Friends.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day18/Nicholas_and_Permutation.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day18/find_the_path.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day18/lengthOfLastWord.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day19/Hashing.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day19/pairs.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day19/cars.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day19/+ONE.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day19/deleteDuplicatesLinkedList.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day20/HQ9.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day20/Holidays.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day20/merge.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day20/Generate.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day21/Haiku.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day21/Dividing_Orange.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day21/isSupsequince.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day21/numMatchingSubseq.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day22/System_of_Equations.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day22/IQ.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day23/ContestCodeforcesProblem.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day23/Restoring_Password.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day23/Valera_and_Plates.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day23/Partition.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day24/Minimum_Difficulty.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day24/countSmaller.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day24/addTwoNumbers.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day25/Little_Elephant_and_Function.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day25/searchMatrix.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day26/Collecting_Beats_is_Fun.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day26/searchRange.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day27/Letter.cpp.obj CMakeFiles/MyChallenge.dir/July_2022/day27/lowestCommonAncestor.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\MyChallenge.dir
