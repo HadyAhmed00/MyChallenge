@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 7/29/2022.
+//
 /*
 ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗
 ██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
@@ -50,10 +53,10 @@ void Lucky_Ticket(){
         cout<<"NO";
     }
 }
-
-int main(){
-    improve
-    Lucky_Ticket();
-    END
-    return 0;
-}
+//
+//int main(){
+//    improve
+//    Lucky_Ticket();
+//    END
+//    return 0;
+//}
