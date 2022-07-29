@@ -1,14 +1,14 @@
 # ninja log v5
-15	946	6807043609064871	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
+16	1080	6807737734010965	CMakeFiles/MyChallenge.dir/main.cpp.obj	51776ff1f8ac5b57
 23298	25060	6805050256997021	CMakeFiles/MyChallenge.dir/July_2022/day15/Sinking_Ship.cpp.obj	177902ac40150311
 20	1771	6793818798714528	CMakeFiles/MyChallenge.dir/day14/strStr.cpp.obj	88bd900126997c05
 40	1181	6787924219088971	CMakeFiles/MyChallenge.dir/day8/Soft_Drinking.cpp.obj	94996ce5b1e6190c
 13	2163	6795658747061640	CMakeFiles/MyChallenge.dir/day2/romanToInt.cpp.obj	91ff2fd61cc7cce6
 39	2162	6786181296850368	CMakeFiles/MyChallenge.dir/day6/Wizards.cpp.obj	a85191f38275efd7
-1843	2963	6795660405432657	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
 7	1106	6791388409812817	CMakeFiles/MyChallenge.dir/day10/MyPower.cpp.obj	213e21dbcf7f9aa0
+1843	2963	6795660405432657	CMakeFiles/MyChallenge.dir/day3/Far.cpp.obj	fa234312466cb585
 28	3330	6792955795197448	CMakeFiles/MyChallenge.dir/day13/Duff_and_Meat.cpp.obj	d7a5d158839edf78
-947	1694	6807043616524648	MyChallenge.exe	3c2aafb129dedc80
+1081	1897	6807737742018239	MyChallenge.exe	7c2e30085f4c1a9a
 72	2003	6786217042899365	CMakeFiles/MyChallenge.dir/day6/Combination_Lock.cpp.obj	127ff2e08762ea4d
 49	1709	6787978001532516	CMakeFiles/MyChallenge.dir/day8/fib.cpp.obj	700c7ddc22cbeabc
 26	1842	6795660394049249	CMakeFiles/MyChallenge.dir/day2/longestCommonPrefix.cpp.obj	f1d95c5bb91d502b
@@ -87,8 +87,9 @@
 44	2556	6799985027908298	CMakeFiles/MyChallenge.dir/day21/Dividing_Orange.cpp.obj	ad54321ed9505881
 1906	3110	6799985033689331	CMakeFiles/MyChallenge.dir/day21/numMatchingSubseq.cpp.obj	a9254fa5712cc948
 30	2213	6801609334657924	CMakeFiles/MyChallenge.dir/day22/IQ.cpp.obj	1df7196a5c8d77b
-14	839	6807053131777546	build.ninja	4bb16b0f26ccfe5b
+14	839	6807745168779350	build.ninja	4bb16b0f26ccfe5b
 47	4065	6802601681254679	CMakeFiles/MyChallenge.dir/day23/ContestCodeforcesProblem.cpp.obj	5a78908867e9dcf4
+48	2197	6807726847289869	CMakeFiles/MyChallenge.dir/July_2022/day30/FindAndReplace.cpp.obj	7378cf077732efa5
 39	4298	6802601683260625	CMakeFiles/MyChallenge.dir/day23/Restoring_Password.cpp.obj	d0ad3eeb923bed86
 4174	5333	6802601693977439	CMakeFiles/MyChallenge.dir/day23/Valera_and_Plates.cpp.obj	4414ce7202155fc2
 4066	5339	6802601694077374	CMakeFiles/MyChallenge.dir/day23/Partition.cpp.obj	9edfc3e8eca686ee
@@ -174,5 +175,6 @@
 36461	37574	6805050382171992	CMakeFiles/MyChallenge.dir/July_2022/day26/searchRange.cpp.obj	bb806761d529f871
 98	3686	6806051912612371	CMakeFiles/MyChallenge.dir/July_2022/day27/lowestCommonAncestor.cpp.obj	a6fab7e30e9648a6
 104	3697	6806051912924878	CMakeFiles/MyChallenge.dir/July_2022/day27/Letter.cpp.obj	d24f6e043c274133
-38	2221	6807040919540990	CMakeFiles/MyChallenge.dir/July_2022/day29/isAnagram.cpp.obj	ca8073644725d5e4
+1905	2993	6807726855258354	CMakeFiles/MyChallenge.dir/July_2022/day29/isAnagram.cpp.obj	ca8073644725d5e4
 2173	3878	6807040936874039	CMakeFiles/MyChallenge.dir/July_2022/day28/flatten.cpp.obj	d330dbe3fefc8fbd
+38	1946	6807726844008783	CMakeFiles/MyChallenge.dir/July_2022/day29/Bank_Account.cpp.obj	1d5a4dc26688c570
