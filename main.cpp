@@ -24,36 +24,33 @@
 #define END cout<<endl;
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
-
-void Lucky_Ticket(){
-    int n ; cin>>n;
-    string a="" ;
-    int fHalf =0,sHalf=0;
-    for (int i = 0; i < n; ++i) {
-        char tmp ; cin>>tmp;
-        if(tmp!='4' && tmp!='7')
-        {
-            cout<<"NO";
+void Chatroom(){
+    set<char> input ;
+    string s ;
+    cin>>s;
+    string hi = "hello";
+    int j=0;
+    for (int i = 0; i < s.size(); ++i) {
+//        input.insert(s[i]);
+        if(j==hi.size()){
+            cout<<"YES";
             return;
+
         }
-        if(i<n/2){
-            fHalf+=(tmp-'0');
-        } else{
-            sHalf+=(tmp-'0');
+        if(s[i]==hi[j])
+        {
+            j++;
         }
-        a+=tmp;
     }
-    if(fHalf==sHalf){
+    if(j==hi.size())
         cout<<"YES";
-    }
-    else {
+    else{
         cout<<"NO";
     }
-}
 
+}
 int main(){
     improve
-    Lucky_Ticket();
+    Chatroom();
     END
-    return 0;
 }
