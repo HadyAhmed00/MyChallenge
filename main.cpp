@@ -24,33 +24,8 @@
 #define END cout<<endl;
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
-void Chatroom(){
-    set<char> input ;
-    string s ;
-    cin>>s;
-    string hi = "hello";
-    int j=0;
-    for (int i = 0; i < s.size(); ++i) {
-//        input.insert(s[i]);
-        if(j==hi.size()){
-            cout<<"YES";
-            return;
 
-        }
-        if(s[i]==hi[j])
-        {
-            j++;
-        }
-    }
-    if(j==hi.size())
-        cout<<"YES";
-    else{
-        cout<<"NO";
-    }
-
-}
 int main(){
     improve
-    Chatroom();
     END
 }
