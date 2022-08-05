@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 8/4/2022.
+//
 /*
 ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗
 ██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
@@ -24,28 +27,15 @@
 #define END cout<<endl;
 #define reb(i, k, n) for (ll i = k; i < n; i++)
 using namespace std;
-int soloution (vector<int>& nums,int i , vector<int>&dp){
-    if(dp[i]!=-1)
-        return dp[i];
-    if(i==0)
-        return 1;
-    int conter =0;
-    for(auto it:nums){
-        if(i>=it)
-            conter += soloution(nums,i-it,dp);
+int mirrorReflection(int p, int q) {
+    while (p % 2 == 0 && q % 2 == 0){
+        p/=2;
+        q/=2;
     }
-    return dp[i]=conter;
+    return 1 - p % 2 + q % 2;
 }
-int combinationSum4(vector<int>& nums, int target) {
-    vector<int> dp (target+1,-1);
-    return soloution(nums,target,dp);
-}
-int main(){
-    improve
-    vector<int> a = {1,2,3};
-
-    int b =combinationSum4(a,4);
-    cout<<b;
-
-    END
-}
+//
+//int main(){
+//    improve
+//    END
+//}
