@@ -1,3 +1,6 @@
+//
+// Created by Hady Ahmed on 8/6/2022.
+//
 /*
 ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗
 ██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
@@ -27,9 +30,9 @@ using namespace std;
 int poorPigs(int buckets, int poisonTime, int totalTime) {
     return ceil(log(buckets) / log(totalTime / poisonTime + 1));
 }
-int main(){
-    improve
-
-
-    END
-}
+//int main(){
+//    improve
+//
+//
+//    END
+//}
