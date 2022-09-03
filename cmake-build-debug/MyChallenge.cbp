@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MyChallenge"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyChallenge">
+				<Option output="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/MyChallenge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyChallenge"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyChallenge/fast">
+				<Option output="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/MyChallenge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyChallenge/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/Day1/Uncowed_Forces.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/Day1/uniquePath.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day2/intToRom.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day2/kthSmolostElymant.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day3/MyCalender.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day3/mirrorReflection.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day4/CombinationSum4.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/August 2022/day6/poorPigs.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day10/Cupboards.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day10/MyPower.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day10/Patrick_and_Shopping.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day10/mySqrt.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day11/Soroban.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day11/jumpGame.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day12/lights_out.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day12/minCostClimbingStairs.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day13/Duff_and_Meat.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day13/rightSideView.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day14/ matchsticks.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day14/Squats.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day14/Vanya_and_Cards.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day14/strStr.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day15/Arrival_of_the_General.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day15/BS.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day15/Sinking_Ship.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day15/levelOrder.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day16/Candy_Bags.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day16/buildTree.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day16/llp.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day17/Game_With_Sticks.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day17/Socks.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day17/maxAreaOfIsland.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day18/Dima_and_Friends.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day18/Nicholas_and_Permutation.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day18/find_the_path.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day18/lengthOfLastWord.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day19/+ONE.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day19/Hashing.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day19/cars.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day19/deleteDuplicatesLinkedList.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day19/pairs.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day2/longestCommonPrefix.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day2/romanToInt.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day20/Generate.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day20/HQ9.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day20/Holidays.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day20/merge.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day21/Dividing_Orange.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day21/Haiku.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day21/isSupsequince.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day21/numMatchingSubseq.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day22/IQ.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day22/System of Equations.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day23/ContestCodeforcesProblem.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day23/Partition.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day23/Restoring_Password.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day23/Valera_and_Plates.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day24/Minimum_Difficulty.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day24/addTwoNumbers.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day24/countSmaller.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day25/Little_Elephant_and_Function.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day25/searchMatrix.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day26/Collecting_Beats_is_Fun.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day26/searchRange.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day27/Letter.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day27/lowestCommonAncestor.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day28/Kefa_and_First_Steps.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day28/flatten.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day29/Bank_Account.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day29/isAnagram.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day3/BusToUdayland.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day3/Far.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day3/maximumUnits.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day3/mergeTwoLists.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day30/FindAndReplace.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day30/LengthofLongest.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day30/Lucky_Ticket.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day31/Chatroom.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day31/UnivesalWrod.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day31/minPartitions.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day32/NumArray.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day32/Number to String.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day32/findMedianSortedArrays.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day4/Burning_Midnight.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day4/Circle_line.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day4/MaxArea.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day4/removeDuplicates.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day5/Choosing_Teams.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day5/Mashmokh_and_Tokens.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day5/WiggleMaxLength.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day5/removeElement.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day6/Candy.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day6/Combination_Lock.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day6/Wizards.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day6/isValid.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day7/Mashmokh_and_Lights.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day7/Triangular_numbers.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day7/binaryAddithin.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day7/longestConsecutive.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day8/Soft_Drinking.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day8/Summer_Camp.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day8/climbStairs.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day8/fib.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day9/Coder.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day9/GukiZ_and_Contest.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day9/assassment5Problems.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day9/countBits.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/July 2022/day9/isInterleave.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/main.cpp">
+			<Option target="MyChallenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Hady Ahmed/Documents/GitHub/MyChallenge/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
